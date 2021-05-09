@@ -22,7 +22,7 @@ Créditos - [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72ol
 
 
 ## :clipboard: Integrantes
-* Emerson dos Santos -  emersonsantos@unifei.edu.br
+* Emerson dos Santos -  emersonsantos@unifei.edu.br | emersonsantos.cep@gmail.com
 
 
 ## :computer: Tcnologias
