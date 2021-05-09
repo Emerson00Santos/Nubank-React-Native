@@ -4,9 +4,19 @@
 Créditos - [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>Menu</td>
+  </tr>
+  <tr>
+   <td><img alt="Interface" src="https://github.com/Emerson00Santos/nubank/blob/main/nubank.png?raw=true" width="50%"></td>
+   <td> <img alt="Interface" src="https://github.com/Emerson00Santos/nubank/blob/main/nubank2.png?raw=true" width="50%"></td>
+  </tr>
+ </table>
+
 <p float="left">
-  <img alt="Interface" src="https://github.com/Emerson00Santos/nubank/blob/main/nubank.png?raw=true" width="50%">
-  <img alt="Interface" src="https://github.com/Emerson00Santos/nubank/blob/main/nubank2.png?raw=true" width="50%">
+  
 </p>
 
 
